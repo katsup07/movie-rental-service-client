@@ -1,0 +1,29 @@
+body {
+  margin: 40;
+  padding: 20px;
+  
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.navbar {
+  background: rgb(0, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+}
+
+.navbar-brand{
+  color: rgb(49, 88, 197);
+  font-weight: 900;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-link{
+  color: rgb(128, 139, 149);
+  font-weight: 700;
+}
+
+.search-bar {
+  margin-bottom: 1rem;
+}
